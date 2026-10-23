@@ -24,4 +24,11 @@
 To become a Software Development Engineer.
 
 ## 📫 Connect with Me
-- GitHub: [My Profile](https://github.com/)
+- GitHub: [My Profile](https://github.com/
+- # Hi, I'm Saurabh Bhandari 👋
+
+🎓 MCA Student
+💻 Aspiring Software Developer
+🌱 Currently learning C, C++, R and SQL
+🚀 Building my programming skills step by step
+🎯 Goal: Become a Software Development Engineer 
