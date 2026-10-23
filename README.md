@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Saurabh!
 
-<!--
-**Saurabhbhandari72/Saurabhbhandari72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+## 💻 Languages & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,mysql" />
+</p>
+
+## 📚 Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=r,git,github" />
+</p>
+
+## 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,github,mysql" />
+</p>
+
+## 🎯 My Goal
+To become a Software Development Engineer.
+
+## 📫 Connect with Me
+- GitHub: [My Profile](https://github.com/)
