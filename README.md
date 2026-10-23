@@ -9,13 +9,13 @@
 ## 💻 Languages & Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,r,python,java,js,html,css,mysql" />
 </p>
 
 ## 📚 Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=r,git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ## 🛠️ Tools
